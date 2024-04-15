@@ -140,7 +140,7 @@ collector ground at kanchipuram
 ```
 
 ## OUTPUT
-![alt text](1.jpeg)
+![alt text](1.5.jpeg)
 ![alt text](2.jpeg)
 ![alt text](3.jpeg)
 ![alt text](4.jpeg)
